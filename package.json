@@ -1,0 +1,23 @@
+{
+  "name": "hotel-booking-system",
+  "version": "1.0.0",
+  "description": "A sample hotel booking system backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ps-raghotham-rao/sakha-booking-app.git"
+  },
+  "author": "Raghotham",
+ 
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
